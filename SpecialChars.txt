@@ -1,0 +1,36 @@
+All Characters ` ~ ! @ # $ % ^ & * ( ) - _ = + [ ] { } \ | ; : ' " , . < > / ? "
+`01Te`st`
+~02Te~st~
+@03Te@st@
+$04Te$st$
+%05Te%st%
+*06Te*st*
+(07Te(st)
+)08Te)st)
+-09Te-st-
+_10Te_st_
+=11Te=st=
++12Te+st+
+[13Te[st[
+]14Te]st]
+{15Te{st{
+}16Te}st}
+|17Te|st|
+;18Te;st;
+:19Te:st:
+,20Te,st,
+.21Te.st.
+<22Te<st<
+>23Te>st>
+?24Te?st?
+!25Te!st!
+#26Te#st#
+^27Te^st^
+&28Te&st&
+'29Te'st'
+"30Te"st"
+\31Te\st\
+/32Te/st/
+ 33Test  
+Test
+Test
